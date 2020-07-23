@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 歡迎來到我的網站，第一次使用敬請見諒。
 
 You can use the [editor on GitHub](https://github.com/kueihengtsuo/anythiing/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
